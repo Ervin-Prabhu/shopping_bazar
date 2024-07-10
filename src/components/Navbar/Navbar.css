@@ -1,0 +1,11 @@
+.navbar{
+    display:flex;
+    justify-content: end;
+    list-style: none;
+}
+
+.navbar li a{
+    padding: 25px;
+    text-decoration: none;
+    color: black;
+}
